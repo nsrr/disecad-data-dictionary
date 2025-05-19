@@ -1,7 +1,7 @@
 {
   "id": "visit",
-  "display_name": "DISE Visit timepoint",
-  "description": "",
+  "display_name": "DISE-CAD study flow",
+  "description": "The DISE-CAD visit/timepoint is specified in the variable labels where applicable.",
   "type": "choices",
   "domain": "visit",
   "commonly_used": true
