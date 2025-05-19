@@ -1,0 +1,7 @@
+{
+  "id": "iq_bmi",
+  "display_name": "BMI (intake_questionnaire)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2) "
+}

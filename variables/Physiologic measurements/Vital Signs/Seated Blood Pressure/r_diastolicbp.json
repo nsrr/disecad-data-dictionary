@@ -1,0 +1,7 @@
+{
+  "id": "r_diastolicbp",
+  "display_name": "Diastolic BP (return_questionnaire)",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)"
+}

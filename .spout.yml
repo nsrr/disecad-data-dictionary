@@ -1,3 +1,13 @@
-slug: disecad-data-dictionary
+slug: disecad
 visit: visit
-charts: []
+charts:
+- chart: sex
+  title: sex
+- chart: race
+  title: race
+  
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org

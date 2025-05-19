@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Male",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Female",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Unknown",
+    "description": ""
+  }
+]
