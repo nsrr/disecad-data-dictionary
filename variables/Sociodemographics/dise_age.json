@@ -1,0 +1,7 @@
+{
+  "id": "dise_age",
+  "display_name": "Age (dise)",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

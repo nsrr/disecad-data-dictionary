@@ -1,0 +1,7 @@
+{
+  "id": "r_spo2",
+  "display_name": "Blood Oxygen (return_questionnaire)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

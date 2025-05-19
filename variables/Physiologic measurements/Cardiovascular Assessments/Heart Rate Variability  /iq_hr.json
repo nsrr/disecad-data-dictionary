@@ -1,0 +1,7 @@
+{
+  "id": "iq_hr",
+  "display_name": "Heart Rate (intake_questionnaire)",
+  "description": "",
+  "type": "integer",
+  "units": "beats per minute (bpm)"
+}

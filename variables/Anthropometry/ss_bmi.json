@@ -1,0 +1,7 @@
+{
+  "id": "ss_bmi",
+  "display_name": "BMI (sleep_study_data)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2) "
+}

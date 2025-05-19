@@ -1,0 +1,7 @@
+{
+  "id": "r_hr",
+  "display_name": "Heart Rate (return_questionnaire)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)"
+}

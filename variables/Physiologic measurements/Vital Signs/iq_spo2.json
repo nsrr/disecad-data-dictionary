@@ -1,0 +1,7 @@
+{
+  "id": "iq_spo2",
+  "display_name": "Blood Oxygen (intake_questionnaire)",
+  "description": "",
+  "type": "integer",
+  "units": "percent (%)"
+}

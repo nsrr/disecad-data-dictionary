@@ -1,0 +1,7 @@
+{
+  "id": "employment",
+  "display_name": "Employment status\n",
+  "description": "",
+  "type": "choices",
+  "domain": "employment"
+}
