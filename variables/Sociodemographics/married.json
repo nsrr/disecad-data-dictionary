@@ -1,7 +1,0 @@
-{
-  "id": "married",
-  "display_name": "Marital status",
-  "description": "",
-  "type": "choices",
-  "domain": "married"
-}

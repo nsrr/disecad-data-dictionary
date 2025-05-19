@@ -1,7 +1,0 @@
-{
-  "id": "dise_bmi",
-  "display_name": "BMI (dise)",
-  "description": "",
-  "type": "numeric",
-  "units": "kilograms per meter squared (kg/m2) "
-}

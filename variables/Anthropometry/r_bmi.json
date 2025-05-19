@@ -1,7 +1,0 @@
-{
-  "id": "r_bmi",
-  "display_name": "BMI (return_questionnaire)",
-  "description": "",
-  "type": "numeric",
-  "units": "kilograms per meter squared (kg/m2) "
-}

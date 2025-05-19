@@ -1,7 +1,0 @@
-{
-  "id": "language",
-  "display_name": "Language spoken during visits (without use of interpreter)",
-  "description": "",
-  "type": "choices",
-  "domain": "language"
-}

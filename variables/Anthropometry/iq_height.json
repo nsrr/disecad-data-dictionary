@@ -1,7 +1,0 @@
-{
-  "id": "iq_height",
-  "display_name": "Height (intake_questionnaire)",
-  "description": "4 ft = 48, 5 ft = 60 in, 6 ft = 72 in",
-  "type": "integer",
-  "units": "inches (in)"
-}

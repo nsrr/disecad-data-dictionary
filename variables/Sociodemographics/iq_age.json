@@ -1,7 +1,0 @@
-{
-  "id": "iq_age",
-  "display_name": "Age (intake_questionnaire)",
-  "description": "",
-  "type": "numeric",
-  "units": "years"
-}

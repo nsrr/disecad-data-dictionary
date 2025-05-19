@@ -1,7 +1,0 @@
-{
-  "id": "iq_systolicbp",
-  "display_name": "Systolic BP (intake_questionnaire)",
-  "description": "",
-  "type": "integer",
-  "units": "millimeters of mercury (mmHg)"
-}
