@@ -2,9 +2,9 @@ slug: disecad
 visit: visit
 charts:
 - chart: sex
-  title: sex
+  title: Sex
 - chart: race
-  title: race
+  title: Race
   
 webservers:
   - name: production
