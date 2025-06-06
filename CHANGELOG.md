@@ -1,4 +1,4 @@
-## 0.1.0 
+## 0.1.0 (June 6, 2025)
 
 - Add variables from source contributor datasets
 - Create NSRR harmonized variables
